@@ -1,0 +1,22 @@
+.head {
+  color:#99c49a;
+  position: absolute;
+  top: 20%;
+  left: 200%;
+}
+
+.dark_body {
+  background-color:#333331;
+  position: absolute;
+}
+
+.mainButton {
+  background-color:#669176;
+  font-size:15px;
+  border:None;
+  padding:10px 16.18px;
+  border-radius:10%;
+  position: absolute ;
+  top: 30%;
+  left: 40%;
+}
