@@ -1,12 +1,12 @@
-.head {
+h1 {
   color:#99c49a;
   position: absolute;
   top: 20%;
   left: 200%;
 }
 
-.dark_body {
-  background-color:#333331;
+body{
+  background: color #000;
   position: absolute;
 }
 
