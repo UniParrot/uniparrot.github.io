@@ -1,22 +1,9 @@
 h1 {
   color:#000000;
   position: absolute;
-  top: 20%;
-  left: 200%;
 }
 
 body{
   background:#ffffff;
   position: absolute;
-}
-
-.mainButton {
-  background-color:#ffffff;
-  font-size:15px;
-  border:None;
-  padding:10px 16.18px;
-  border-radius:10%;
-  position: absolute ;
-  top: 30%;
-  left: 40%;
 }
